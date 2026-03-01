@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+*.log
+*.bak
+*.swp
+.DS_Store
+
+# AI OS specific
+credentials.yaml
+*.json~
+temp/

@@ -1,0 +1,122 @@
+[
+  {
+    "role": "User",
+    "content": "whats up",
+    "time": "2026-02-26T23:05:09.906927"
+  },
+  {
+    "role": "Jarvis",
+    "content": "Thanks for sharing that with me.",
+    "time": "2026-02-26T23:05:09.907272"
+  },
+  {
+    "role": "User",
+    "content": "it a question",
+    "time": "2026-02-26T23:05:24.907501"
+  },
+  {
+    "role": "Jarvis",
+    "content": "I'm here to help. What can I do for you?",
+    "time": "2026-02-26T23:05:24.908658"
+  },
+  {
+    "role": "User",
+    "content": "tell me whats ur purpose",
+    "time": "2026-02-26T23:05:41.765200"
+  },
+  {
+    "role": "Jarvis",
+    "content": "Got it. Is there something specific you'd like to know?",
+    "time": "2026-02-26T23:05:41.765461"
+  },
+  {
+    "role": "User",
+    "content": "ur purpose",
+    "time": "2026-02-26T23:05:51.882953"
+  },
+  {
+    "role": "Jarvis",
+    "content": "Thanks for sharing that with me.",
+    "time": "2026-02-26T23:05:51.885136"
+  },
+  {
+    "role": "User",
+    "content": "voice on",
+    "time": "2026-02-26T23:12:19.460122"
+  },
+  {
+    "role": "User",
+    "content": "hey what s up",
+    "time": "2026-02-26T23:16:53.981475"
+  },
+  {
+    "role": "Jarvis",
+    "content": "Interesting. Tell me more about 'hey what s up'.",
+    "time": "2026-02-26T23:16:53.981829"
+  },
+  {
+    "role": "User",
+    "content": "u tell me whats up with u",
+    "time": "2026-02-26T23:17:09.312081"
+  },
+  {
+    "role": "Jarvis",
+    "content": "I'm here to help. What can I do for you?",
+    "time": "2026-02-26T23:17:09.312631"
+  },
+  {
+    "role": "User",
+    "content": "idk what can u do?",
+    "time": "2026-02-26T23:17:21.823004"
+  },
+  {
+    "role": "Jarvis",
+    "content": "I hear you. What else is on your mind?",
+    "time": "2026-02-26T23:17:21.823079"
+  },
+  {
+    "role": "User",
+    "content": "what can u do?",
+    "time": "2026-02-26T23:17:32.262127"
+  },
+  {
+    "role": "Jarvis",
+    "content": "I hear you. What else is on your mind?",
+    "time": "2026-02-26T23:17:32.262210"
+  },
+  {
+    "role": "User",
+    "content": "ur in dummy mode i see",
+    "time": "2026-02-26T23:17:46.101214"
+  },
+  {
+    "role": "Jarvis",
+    "content": "Thanks for sharing that with me.",
+    "time": "2026-02-26T23:17:46.101334"
+  },
+  {
+    "role": "User",
+    "content": "what can u do?",
+    "time": "2026-02-26T23:20:36.675917"
+  },
+  {
+    "role": "Jarvis",
+    "content": "Interesting. Tell me more about 'what can u do?'.",
+    "time": "2026-02-26T23:21:40.953403"
+  },
+  {
+    "role": "User",
+    "content": "no im asking u whatb can u do",
+    "time": "2026-02-26T23:22:24.034914"
+  },
+  {
+    "role": "Jarvis",
+    "content": "Interesting. Tell me more about 'no im asking u whatb can u do'.",
+    "time": "2026-02-26T23:22:54.394719"
+  },
+  {
+    "role": "user",
+    "content": "ok what up",
+    "time": "2026-02-27T16:27:13.138746"
+  }
+]
